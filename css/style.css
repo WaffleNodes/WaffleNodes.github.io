@@ -49,6 +49,10 @@ button {
     font-weight: 300;
 }
 
+html {
+  scroll-behavior: smooth 
+}
+
 .main-nav a {
     color: #fff !important;
 }
